@@ -1,0 +1,19 @@
+{
+    "testimoni":[
+        {
+            "nama": "User A",
+            "comment": "Tempat terbaik untuk membeli PC",
+            "tanggal": "12-12-2025"
+        },
+        {
+            "nama": "User B",
+            "comment": "Aku beli PC disini udah 10 tahun masih lancar jaya!",
+            "tanggal":"5-9-2026"
+        },
+        {
+            "nama": "User C",
+            "comment": "Beli PC disini untuk kebutuhan design cocok banget!",
+            "tanggal": "24-5-2025"
+        }
+    ]
+}
