@@ -47,7 +47,7 @@ export default function Nav() {
 
       <NavbarContent className="sm:hidden" justify="end">
         <NavbarMenuToggle
-          aria-label={isMenuOpen ? "Close menu" : "Open menu"}
+          aria-label={isMenuOpen ? "Close menu" : "Open menu"} className="text-white"
         />
       </NavbarContent>
 
